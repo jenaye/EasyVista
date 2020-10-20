@@ -15,7 +15,7 @@ To make this PoC, I just installed the software (`https://www.easyvista.com/`)
 
 First of all, you can check your version using this URL `xxx.com/version` you will have this kind of output :
 
-<img width="1280" alt="version" src="https://raw.githubusercontent.com/jenaye/EasyVista/main/version.png">
+<img width="1280" alt="version" src="https://raw.githubusercontent.com/jenaye/EasyVista/master/version.png">
 
 
 While logged in, you can now edit your menu, by clicking on "add new field".
@@ -40,11 +40,11 @@ Cookie: PHPSESSID=a02fabf994eedfca123cc5330e30456c; com.xxxx.5f084ca2c2c6=5e46af
 ```
 
 There is a poc with `{{ 7*7 }}`who render 47 : 
-<img width="1280" alt="poc1" src="https://raw.githubusercontent.com/jenaye/EasyVista/main/poc.png">
+<img width="1280" alt="poc1" src="https://raw.githubusercontent.com/jenaye/EasyVista/master/poc.png">
 
 
 The payload `{{constructor.constructor('alert(1)')()}}`
-<img width="1280" alt="poc2-based" src="https://raw.githubusercontent.com/jenaye/EasyVista/main/poc2.png">
+<img width="1280" alt="poc2-based" src="https://raw.githubusercontent.com/jenaye/EasyVista/master/poc2.png">
 
 
 
